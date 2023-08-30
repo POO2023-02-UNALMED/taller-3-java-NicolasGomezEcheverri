@@ -31,7 +31,7 @@ public class Control {
 		this.tv = telev;
 		telev.setControl(this);
 	}
-	public TV getTV() {
+	public TV getTv() {
 		return tv;
 	}
 	public void setTv(TV tv) {
